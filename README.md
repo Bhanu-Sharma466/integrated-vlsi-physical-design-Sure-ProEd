@@ -52,7 +52,3 @@ This project was completed as part of the **Integrated VLSI Training Program** a
 ## 📬 Contact
 - LinkedIn: https://www.linkedin.com/in/bhanusharma1403/
 - Email: bhanusharma1403@gmail.com
-
-## 📬 Contact
-- LinkedIn: [your link]
-- Email: [your email]
