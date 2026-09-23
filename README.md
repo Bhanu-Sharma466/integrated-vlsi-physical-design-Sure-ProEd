@@ -33,8 +33,6 @@ To design and implement a complete RTL-to-GDSII physical design flow — taking 
 - `Course_Report/` — Formal course completion report
 - `Mini_Projects/` — Intermediate design exercises
 - `Final_Capstone_Project/` — Full RTL-to-GDSII flow with logs, reports, and layouts
-- `Soft_Skills_LST_SST/` — Life Skills / Soft Skills Training reflections
-- `Community_Service/` — Social responsibility initiative reports
 
 ## 📊 Results
 - Final GDSII layout: `Final_Capstone_Project/results/`
