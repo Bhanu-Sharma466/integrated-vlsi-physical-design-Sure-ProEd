@@ -85,7 +85,7 @@ The project was implemented using an open-source ASIC physical design flow based
 The primary focus of the project is to understand and analyze how different physical-design stages and implementation parameters affect timing, area, routing, clock distribution, and power integrity.
 </p>
 <p>
-  <a href="https://github.com/sure-trust/BHANU-SHARMA-g3-25-integrated-vlsi/blob/60e01492f1d0ea4bae466ccc24e524f830564092/Course%20report/Project_report_Sure_Trust.pdf" target="_blank"><strong>→ View Full Project Report</strong></a>
+  <a href="https://github.com/Bhanu-Sharma466/integrated-vlsi-physical-design-Sure-ProEd/blob/0edd20eae343bbcc086d6c1704cfc9dc41b74347/Course_Reports/Project_report_Sure_Trust%20(1).pdf" target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
 
 <hr style="height:1px; border-top:1px solid #ccc; width:80%;" />
